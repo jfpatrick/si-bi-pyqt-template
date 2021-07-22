@@ -43,10 +43,6 @@ to the maintainers.
 
 ![](images/pyqt-error.png)
 
-To obtain an empty template (without the demo application), type:
-```
-bipy-gui-manager new --no-demo
-```
 
 -------------------------------
 
